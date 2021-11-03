@@ -12,7 +12,7 @@ npm install
 yarn install
 ```
 
-3. In order to run it:
+2. In order to run it:
 
 ```bash
    npm start
